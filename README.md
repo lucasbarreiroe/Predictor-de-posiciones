@@ -38,6 +38,5 @@ Desarrollo de un modelo de clasificación en Python para predecir la posición (
 - Explorar más modelos (por ejemplo, redes neuronales).
 - Implementar pipeline reproducible y exportar los mejores modelos entrenados.
 
-## About
-Trabajo práctico para la materia “Introducción al Aprendizaje Automático”.
+
 
